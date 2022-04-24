@@ -1,3 +1,5 @@
 print ("Mark Christian M. Naling")
 print ("Santol, Boac, Marinduque")
 print ("March 04,2001")
+print ("Marinduque State College")
+print ("BSIT - 2A")
